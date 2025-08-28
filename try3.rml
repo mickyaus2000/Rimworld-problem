@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedModList>
+	<meta>
+		<gameVersion>1.6.4543 rev1058</gameVersion>
+		<modIds>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.odyssey</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>1392840</li>
+			<li>1826140</li>
+			<li>3022790</li>
+		</modSteamIds>
+		<modNames>
+			<li>Core</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Odyssey</li>
+		</modNames>
+	</meta>
+	<modList>
+		<ids>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.odyssey</li>
+			<li>imranfish.xmlextensions</li>
+			<li>taranchuk.performanceoptimizer</li>
+			<li>dubwise.dubsperformanceanalyzer.steam</li>
+			<li>arkymn.slowerpawntickrate</li>
+			<li>ingendum.raiderswarmcompression</li>
+			<li>jsin.laglesslamps</li>
+			<li>vanillaexpanded.backgrounds</li>
+			<li>redmattis.betterprerequisites</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>neronix17.toolbox</li>
+			<li>oblitus.mylittleplanet</li>
+			<li>snowdrop.custommapsizescontinued</li>
+			<li>mlie.advancedbiomes</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>m00nl1ght.geologicallandforms.biometransitions</li>
+			<li>brunin.greenrim</li>
+			<li>boots.sensiblefactions</li>
+			<li>broms.deeporbit</li>
+			<li>zoarak.mechplat</li>
+			<li>madeline.modmismatchformatter</li>
+			<li>taggerung.customuiscales</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>automatic.autolinks</li>
+			<li>kathanon.floatsubmenu</li>
+			<li>kathanon.searchablemenus</li>
+			<li>zeracronius.dynamictradeinterface</li>
+			<li>telardo.dragselect</li>
+			<li>mlie.tabsorting</li>
+			<li>cn.zhuzijun.wealthcorrector</li>
+			<li>crashm.colorcodedmoodbar.11</li>
+			<li>mlie.recipeicons</li>
+			<li>mlie.researchtree</li>
+			<li>fluffy.worktab</li>
+			<li>fluffy.pharmacist</li>
+			<li>adaptive.storage.framework</li>
+			<li>sbz.neatstorage</li>
+			<li>sbz.neatstoragefridge</li>
+			<li>sbz.gravshipstorage</li>
+			<li>sbz.neatstorageworkbenchshelf</li>
+			<li>phaneron.basic.storage</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>vanillaexpanded.vbookse</li>
+			<li>vanillaexpanded.basegeneration</li>
+			<li>vanillaexpanded.vanillafoodvarietyexpanded</li>
+			<li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
+			<li>vanillaexpanded.vee</li>
+			<li>vanillaracesexpanded.hussar</li>
+			<li>vanillaracesexpanded.android</li>
+			<li>vanillaracesexpanded.genie</li>
+			<li>vanillaracesexpanded.customicons</li>
+			<li>vanillaexpanded.vanillaanimalsexpanded</li>
+			<li>vanillaexpanded.vaewaste</li>
+			<li>vanillaexpanded.vaeendandext</li>
+			<li>vanillaexpanded.vappe</li>
+			<li>vanillaexpanded.vcooke</li>
+			<li>vanillaexpanded.vcookehaute</li>
+			<li>vanillaexpanded.vnutriente</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>vanillaexpanded.vmemese</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vplantsemore</li>
+			<li>vanillaexpanded.vplantsemushrooms</li>
+			<li>vanillaexpanded.vplantsesucculents</li>
+			<li>vanillaexpanded.vbrewe</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.vfearchitect</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>vanillaexpanded.vfemedical</li>
+			<li>vanillaexpanded.vfeart</li>
+			<li>vanillaexpanded.vfepropsanddecor</li>
+			<li>vanillaexpanded.vfefarming</li>
+			<li>vanillaexpanded.vfepower</li>
+			<li>vanillaexpanded.vfespacer</li>
+			<li>reel.expanded.storage</li>
+			<li>vanillaexpanded.vchemfuele</li>
+			<li>bulldog.vanillachemfuelexpandedodysseypatch</li>
+			<li>vanillaexpanded.vgeneticse</li>
+			<li>vanillaexpanded.vgeneticsemorelabstuff</li>
+			<li>frozensnowfox.vanillabionicsexpansion</li>
+			<li>rah.rvte</li>
+			<li>sarg.alphagenes</li>
+			<li>sarg.alphamemes</li>
+			<li>dubwise.dubsbadhygiene</li>
+			<li>azrazalea.dbh.springwater.patch</li>
+			<li>mlie.jwlatmosphericwaterprocessor</li>
+			<li>thesepeople.ritualattachableoutcomes</li>
+			<li>mlie.preceptsandmemes</li>
+			<li>mlie.preceptsandmemesritualsmodule</li>
+			<li>orion.hospitality</li>
+			<li>adamas.hospitalitycasino</li>
+			<li>adamas.vendingmachines</li>
+			<li>adamas.hospitalityspa</li>
+			<li>zal.rimtrek</li>
+			<li>deon.rimtek.core</li>
+			<li>deon.rimtek.digipal</li>
+			<li>deon.rimtek.docmate</li>
+			<li>zal.rta</li>
+			<li>ectos.star.trek.genetics</li>
+			<li>ectos.star.trek.genetics.namepatch</li>
+			<li>moofoo.star.trek.faction</li>
+			<li>rimsenal.federation</li>
+			<li>spdskatr.projectrimfactory</li>
+			<li>aranmaho.prf.retexture</li>
+			<li>hailuan.iwbb</li>
+			<li>moardm.ideologydoubt</li>
+			<li>redmattis.biggergravship</li>
+			<li>turnovus.biotech.integratedgenes</li>
+			<li>sneaks.recycle</li>
+			<li>defi.autocutblight</li>
+			<li>linnun.keepconverting</li>
+			<li>petetimessix.categorizedcleaning.combo</li>
+			<li>reel.turretpipeline</li>
+			<li>scorpio.vemedicaldripsdubsbadhygiene</li>
+			<li>thelorddrake.roomfood</li>
+			<li>cgf1.hlrw.thecombines</li>
+			<li>tk421storm.prioritytreatmentressurected</li>
+			<li>runningbugs.landingonasteroid</li>
+			<li>kearril.choosewheretoland</li>
+			<li>buggy.rimworld.letterpermanentinjury</li>
+			<li>mlie.cutplantsbeforebuilding</li>
+			<li>dimonsever000.ideologyvirtues</li>
+			<li>nep.enginesunlimited</li>
+			<li>dimonsever000.terraformingasteroids</li>
+			<li>mortstrudel.mortideologyscifai</li>
+			<li>dubwise.dubspaintshop</li>
+			<li>pb3n.simplewarrants</li>
+			<li>arvkus.simplerecycling</li>
+			<li>futurplanet.disassemblemechanoid</li>
+			<li>lizardorb.lifesupportunit</li>
+			<li>stagz.vsierationaltraitdevelopment</li>
+			<li>exploriters.siiftun1857.launchintoemptyspace</li>
+			<li>hatti.qualitybuilder</li>
+			<li>balistafreak.stopdropandroll</li>
+			<li>ferny.progressiongravship</li>
+			<li>sinnamon.moreritualrewards</li>
+			<li>toastyman.moreritualseats</li>
+			<li>kyrun.reunion</li>
+			<li>linnun.nogravshipextenderlimit</li>
+			<li>asp.halituisamaricanous</li>
+			<li>chaoticenrico.researchpapers</li>
+			<li>andromeda.stackgap</li>
+			<li>delmaintweaks.roleapparel</li>
+			<li>owlchemist.toggleableshields</li>
+			<li>mlie.spreadtheword</li>
+			<li>kathanon.nodisabledfactions</li>
+			<li>ushanka.glittertechexpansion</li>
+			<li>alleykat.persistentprecepts</li>
+			<li>thegoosebehindtheslaughter.noforcedslowdown</li>
+			<li>wtfomgjohnny.perishable</li>
+			<li>mrwireman.stealthshuttle</li>
+			<li>automatic.traderships</li>
+			<li>kearril.tradetransportpod</li>
+			<li>nalzurin.viltrumitexenotype</li>
+			<li>dismarzero.vgp.vgpvegetablegarden</li>
+			<li>dismarzero.vgp.vgpgardencanning</li>
+			<li>dismarzero.vgp.vgpgardendrinks</li>
+			<li>dismarzero.vgp.vgpgardenfabrics</li>
+			<li>dismarzero.vgp.vgpgardengourmet</li>
+			<li>dismarzero.vgp.vgpgardentools</li>
+			<li>dismarzero.vgp.xtratreesandflowers</li>
+			<li>dismarzero.vgp.vgpmoreveggies</li>
+			<li>dismarzero.vgp.vgpgardenmedicine</li>
+			<li>buhgunger.wallmountedfirefoampopper</li>
+			<li>honeybadger.wallmountedturretsversiontwo</li>
+			<li>aelanna.transparentsubstructure</li>
+			<li>aranmaho.rimsalehouse</li>
+			<li>happycam.tradinghouseconsoleretexture</li>
+			<li>neronix17.shieldgenerators</li>
+			<li>lts.ps</li>
+			<li>mlie.resourcegenerator</li>
+			<li>mosi.rebalancedancientjunk</li>
+			<li>sumghai.replimat</li>
+			<li>sumghai.replimatmeals</li>
+			<li>ucp.generatorthing</li>
+			<li>kunogid.portalhaulerbeacon</li>
+			<li>khamenman.outfitstandsplus</li>
+			<li>misstalls.vrshuttle</li>
+			<li>haplo.miscellaneous.robots</li>
+			<li>alaestor.miscrobots.plusplus</li>
+			<li>sumghai.medpod</li>
+			<li>kilo.lifesuppack</li>
+			<li>akaster.ivdruginfuser</li>
+			<li>mlie.industrialisation</li>
+			<li>bart.hunterdrones</li>
+			<li>turbopickle.gravshuttle</li>
+			<li>hope.gravreactor</li>
+			<li>floor.mounted.aquarium</li>
+			<li>dubwise.dubsskylights</li>
+			<li>dubwise.dubsappareltweaks</li>
+			<li>jdgg.adaptive.cargoholds</li>
+			<li>mrwireman.gausscannon</li>
+			<li>kanae.buildableancientstockpiles</li>
+			<li>nebulae.biggervacbarriers</li>
+			<li>gt.sam.basicdoubledoors</li>
+			<li>broms.asteroidmineralscanner</li>
+			<li>rashomcree.odyssey.asteroidgrounds</li>
+			<li>mingtuwuxiang.spacebasedecorative</li>
+			<li>mlie.sdadvancedpowergeneration</li>
+			<li>og.star.trek.phaser.gun</li>
+			<li>sambucher.adogsaidanimalprosthetics2</li>
+			<li>mlie.beammeupscotty</li>
+			<li>mrkociak.lazybmusretexture</li>
+			<li>kyzy.shipwallenhanced</li>
+			<li>el.biotechmechrt</li>
+			<li>propickelz.tinkerbench</li>
+			<li>mk.spaceshipsolarhull</li>
+			<li>nebulae.rimworld</li>
+			<li>nebulae.simplymoreroofs</li>
+			<li>rashomcree.odyssey.orbitalplatforms</li>
+			<li>smallmine.heavyshuttle</li>
+			<li>kearril.passengershuttlehavenocooldown</li>
+			<li>teiwaz.oot</li>
+			<li>toshtaru.odyssey.transport.shuttle</li>
+			<li>kilo.odysseusvacset</li>
+			<li>aranmaho.spaceballs</li>
+			<li>orion.cashregister</li>
+			<li>orion.gastronomy</li>
+			<li>hg.originals.f3</li>
+			<li>stevezero.fullarmorhandsfeet</li>
+			<li>automatic.gradienthair</li>
+			<li>qwertaii.substructureanywhere</li>
+			<li>petetimessix.hardvacuum</li>
+			<li>hailuan.gravshipexpanded</li>
+			<li>mingtuwuxiang.gravshiphulltexture</li>
+		</ids>
+		<names>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Odyssey</li>
+			<li>XML Extensions</li>
+			<li>Performance Optimizer</li>
+			<li>Dubs Performance Analyzer</li>
+			<li>Performance - Slower Pawn Tick Rate</li>
+			<li>Raider Swarm Compression</li>
+			<li>Lagless Lamps - C#</li>
+			<li>Vanilla Backgrounds Expanded</li>
+			<li>Big and Small - Framework</li>
+			<li>HugsLib</li>
+			<li>Tabula Rasa</li>
+			<li>My Little Planet</li>
+			<li>Better Map Sizes (Continued)</li>
+			<li>Advanced Biomes (Continued)</li>
+			<li>Geological Landforms</li>
+			<li>Biome Transitions</li>
+			<li>GreenRim</li>
+			<li>Boots Sensible Factions</li>
+			<li>Deep Orbit</li>
+			<li>Mechanitor Orbital Platform</li>
+			<li>Better ModMismatch Window</li>
+			<li>CustomUIScales</li>
+			<li>Dubs Mint Menus</li>
+			<li>Auto links</li>
+			<li>Float Sub-Menus</li>
+			<li>Searchable Menus</li>
+			<li>Dynamic Trade Interface</li>
+			<li>DragSelect</li>
+			<li>Tab-sorting</li>
+			<li>WealthCorrector</li>
+			<li>CM Color Coded Mood Bar [1.1+]</li>
+			<li>Recipe icons (Continued)</li>
+			<li>Research Tree (Continued)</li>
+			<li>Work Tab</li>
+			<li>Pharmacist: Represcribed</li>
+			<li>Adaptive Storage Framework</li>
+			<li>[sbz] Neat Storage</li>
+			<li>[sbz] Fridge</li>
+			<li>[sbz] Gravship Storage</li>
+			<li>[sbz] Workbench Shelf</li>
+			<li>Phaneron's Basic Storage</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Books Expanded</li>
+			<li>Vanilla Base Generation Expanded</li>
+			<li>Vanilla Food Variety Expanded</li>
+			<li>Vanilla Social Interactions Expanded</li>
+			<li>Vanilla Events Expanded</li>
+			<li>Vanilla Races Expanded - Hussar</li>
+			<li>Vanilla Races Expanded - Android</li>
+			<li>Vanilla Races Expanded - Genie</li>
+			<li>Vanilla Races Expanded - Custom Icons</li>
+			<li>Vanilla Animals Expanded</li>
+			<li>Vanilla Animals Expanded — Waste Animals</li>
+			<li>Vanilla Animals Expanded — Endangered</li>
+			<li>Vanilla Apparel Expanded</li>
+			<li>Vanilla Cooking Expanded</li>
+			<li>Vanilla Cooking Expanded - Haute</li>
+			<li>Vanilla Nutrient Paste Expanded</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Plants Expanded - More Plants</li>
+			<li>Vanilla Plants Expanded - Mushrooms</li>
+			<li>Vanilla Plants Expanded - Succulents</li>
+			<li>Vanilla Brewing Expanded</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Furniture Expanded - Architect</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Vanilla Furniture Expanded - Medical Module</li>
+			<li>Vanilla Furniture Expanded - Art</li>
+			<li>Vanilla Furniture Expanded - Props and Decor</li>
+			<li>Vanilla Furniture Expanded - Farming</li>
+			<li>Vanilla Furniture Expanded - Power</li>
+			<li>Vanilla Furniture Expanded - Spacer Module</li>
+			<li>Reel's Expanded Storage</li>
+			<li>Vanilla Chemfuel Expanded</li>
+			<li>Vanilla Chemfuel Expanded - Odyssey Patch</li>
+			<li>Vanilla Genetics Expanded</li>
+			<li>Vanilla Genetics Expanded - More Lab Stuff</li>
+			<li>[FSF] Vanilla Bionics Expansion</li>
+			<li>Rah's Vanilla Turrets Expansion</li>
+			<li>Alpha Genes</li>
+			<li>Alpha Memes</li>
+			<li>Dubs Bad Hygiene</li>
+			<li>Dubs Bad Hygiene - Spring Water Patch</li>
+			<li>[JWL] Atmospheric Water Processor (Continued)</li>
+			<li>Custom Ritual Framework</li>
+			<li>Precepts and Memes (Continued)</li>
+			<li>Precepts and Memes - Rituals module (Continued)</li>
+			<li>Hospitality (Continued)</li>
+			<li>Hospitality: Casino</li>
+			<li>Hospitality: Vending machines</li>
+			<li>Hospitality: Spa</li>
+			<li>RimTrek (Continued)</li>
+			<li>RimTek Core</li>
+			<li>RimTek DigiPal</li>
+			<li>RimTek DocMate</li>
+			<li>Rim Trek - Apparel (Continued)</li>
+			<li>Ecto's Star Trek Genetics</li>
+			<li>Ecto's Star Trek Genetics Name Patch</li>
+			<li>Moofoo's Star Trek Factions</li>
+			<li>Rimsenal Faction Pack - Federation</li>
+			<li>Project RimFactory Revived</li>
+			<li>Project RimFactory Revived Retextured</li>
+			<li>I will be back</li>
+			<li>IdeologyDoubt</li>
+			<li>Bigger Gravships (and other Odyssey spaceship related settings)</li>
+			<li>Integrated Genes</li>
+			<li>Recycle 1.5</li>
+			<li>Auto-Cut Blight - 1.6</li>
+			<li>Keep Converting</li>
+			<li>Categorized Cleaning - Combo</li>
+			<li>Reel's Turret Pipeline</li>
+			<li>VE Medical drips - Dubs Bad Hygiene patch</li>
+			<li>Room Food</li>
+			<li>HLRW - The Combine</li>
+			<li>Priority Treatment Ressurected</li>
+			<li>Landing On Asteroid 着陆小行星</li>
+			<li>Choose Where To Land</li>
+			<li>Letter Permanent Injury</li>
+			<li>Cut plants before building (Continued)</li>
+			<li>Cybranian - Ideology Virtues</li>
+			<li>Engines Unlimited</li>
+			<li>Cybranian - Terraforming Asteroids</li>
+			<li>Empiricism and Faith - Mort's Ideologies: Memes and Precepts</li>
+			<li>Dub's Paint Shop</li>
+			<li>Simple Warrants</li>
+			<li>Simple Apparel Recycling</li>
+			<li>Disassemble Mechanoid</li>
+			<li>Minify Life Support Unit</li>
+			<li>VSIE - Rational Trait Development</li>
+			<li>Launch into empty space</li>
+			<li>QualityBuilder</li>
+			<li>Stop, Drop, And Roll! [BAL]</li>
+			<li>Progression: Gravship</li>
+			<li>More Ritual Rewards</li>
+			<li>More Ritual Seats</li>
+			<li>Reunion</li>
+			<li>No Limit for Gravship Field Extender/Thrusters</li>
+			<li>Astronomy Style Pack</li>
+			<li>Research Papers</li>
+			<li>Stack gap</li>
+			<li>Delmain Tweaks - Role Apparel</li>
+			<li>Toggleable Shields</li>
+			<li>Spread The Word (Continued)</li>
+			<li>No Disabled Factions In Quests</li>
+			<li>Ushankas Glittertech Expansion</li>
+			<li>Persistent Precepts</li>
+			<li>No Forced Slowdown</li>
+			<li>Perishable</li>
+			<li>Stealth Shuttle</li>
+			<li>Trader ships</li>
+			<li>Trade Transport Pod</li>
+			<li>Viltrumite Xenotype</li>
+			<li>VGP Vegetable Garden</li>
+			<li>VGP Garden Canning</li>
+			<li>VGP Garden Drinks</li>
+			<li>VGP Garden Fabrics</li>
+			<li>VGP Garden Gourmet</li>
+			<li>VGP Garden Tools</li>
+			<li>VGP Xtra Trees and Flowers</li>
+			<li>VGP More Veggies</li>
+			<li>VGP Garden Medicine</li>
+			<li>Wall Mounted Firefoam</li>
+			<li>Wall Mounted Turrets Version 2</li>
+			<li>Transparent Substructure</li>
+			<li>Trading House</li>
+			<li>Trading House Console Retexture</li>
+			<li>Shield Generators</li>
+			<li>Spacer Shields 1.6</li>
+			<li>Resource Generator</li>
+			<li>Rebalanced Ancient Junk</li>
+			<li>Replimat</li>
+			<li>Replimat Meals</li>
+			<li>Primary Generators - lite</li>
+			<li>PortalHaulerBeacon</li>
+			<li>Outfit Stands Plus</li>
+			<li>Misstall's Shuttle</li>
+			<li>Misc. Robots</li>
+			<li>Misc. Robots++</li>
+			<li>MedPod</li>
+			<li>Life Support Pack</li>
+			<li>IV Drug Infuser</li>
+			<li>Industrialisation (Continued)</li>
+			<li>Hunter Spider Traps</li>
+			<li>Grav-Shuttle</li>
+			<li>Grav Reactor</li>
+			<li>Floor-Mounted Aquarium</li>
+			<li>Dubs Skylights</li>
+			<li>Dubs Apparel Tweaks</li>
+			<li>Cargo Holds</li>
+			<li>Buildable Orbital Cannon</li>
+			<li>Buildable Ancient Stockpiles</li>
+			<li>Bigger Vac Barriers</li>
+			<li>Basic Double Doors</li>
+			<li>Asteroid Mineral Scanner</li>
+			<li>Asteroid Grounds</li>
+			<li>[MUS]太空基地家具Space Base Furniture</li>
+			<li>[sd] Advanced Powergeneration (Continued)</li>
+			<li>[Og] Star Trek: Phaser Gun</li>
+			<li>A Dog Said... Animal Prosthetics 2</li>
+			<li>Beam me up Scotty (Continued)</li>
+			<li>Beam me up, Scotty - a lazy retexture</li>
+			<li>[kyzy] Ship Wall Enhanced</li>
+			<li>Biotech Mechanoid Retexture</li>
+			<li>Tinkering Bench and Biohacking Station</li>
+			<li>Spaceship Solar Hull</li>
+			<li>NebulaeFlood's Lib</li>
+			<li>Simply More Roofs</li>
+			<li>Orbital Platforms</li>
+			<li>Orca Shuttle</li>
+			<li>Passenger Shuttle Have No Cooldown</li>
+			<li>Odyssey Orbital Trader</li>
+			<li>Odyssey Transport Shuttle</li>
+			<li>Odysseus Vacsuit Set</li>
+			<li>Mr Coffee and Mr Radar</li>
+			<li>Cash Register (Continued)</li>
+			<li>Gastronomy (Continued)</li>
+			<li>F3: Spacer Jumpsuits and More</li>
+			<li>Full Armor - Hands and Feet [1.6]</li>
+			<li>Gradient Hair</li>
+			<li>Gravship Substructure Anywhere</li>
+			<li>Hard Vacuum</li>
+			<li>百里墨的逆重飞船拓展</li>
+			<li>[MUS]逆重飞船舱壁贴图替换 Gravship Hull Texture</li>
+		</names>
+	</modList>
+</savedModList>
